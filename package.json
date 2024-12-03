@@ -11,9 +11,13 @@
 		"check": "bunx biome check --write ./"
 	},
 	"dependencies": {
+		"@supabase/supabase-js": "^2.46.2",
+		"@t3-oss/env-nextjs": "^0.11.1",
+		"lucide-react": "^0.463.0",
+		"next": "15.0.3",
 		"react": "19.0.0-rc-66855b96-20241106",
 		"react-dom": "19.0.0-rc-66855b96-20241106",
-		"next": "15.0.3"
+		"zod": "^3.23.8"
 	},
 	"devDependencies": {
 		"@biomejs/biome": "1.9.4",
